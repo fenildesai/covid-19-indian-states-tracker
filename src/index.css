@@ -22,7 +22,7 @@
 }
 
 .flex {
-  min-height: 66vh;
+  min-height: 33vh;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
